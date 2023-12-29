@@ -31,7 +31,7 @@
 ### django-admin startapp app_name
 
 
-
+ 
 ### MODELS
 # Models bu bizni projectimizni skeleti
 
